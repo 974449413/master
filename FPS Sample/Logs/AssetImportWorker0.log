@@ -1914,3 +1914,9 @@ Received Import Request.
   path: Assets/Prefab/FPCController.prefab
   artifactKey: Guid(0752ea98aecc056478c8c3b34f0a0de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefab/FPCController.prefab using Guid(0752ea98aecc056478c8c3b34f0a0de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e94b8bab043e0af0603e2f078e3f0524') in 0.407561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 673.691877 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(e3d5d180706c2444db1eb0154ea91b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(e3d5d180706c2444db1eb0154ea91b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee61ed3149be7c58f94a1bb128a56b9') in 0.002573 seconds 
